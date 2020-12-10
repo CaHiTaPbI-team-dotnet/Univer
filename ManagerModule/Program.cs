@@ -10,6 +10,7 @@ namespace ManagerModule
     {
         static void Main(string[] args)
         {
+            // Hello
         }
     }
 }
